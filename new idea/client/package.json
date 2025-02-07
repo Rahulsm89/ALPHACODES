@@ -1,0 +1,13 @@
+{
+    "name": "waste-management-client",
+    "version": "1.0.0",
+    "description": "Client side for Waste Management System",
+    "main": "public/js/script.js",
+    "scripts": {
+      "start": "lite-server"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "lite-server": "^2.5.4"
+    }
+  }
